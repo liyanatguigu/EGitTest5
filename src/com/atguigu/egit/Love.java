@@ -8,5 +8,6 @@ public class Love {
 		System.out.println("master modify");
 		System.out.println("创建分支");
 		System.out.println("创建分支2");
+		System.out.println("使用了idea工具");
 	}
 }
